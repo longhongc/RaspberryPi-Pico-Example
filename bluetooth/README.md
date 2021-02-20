@@ -5,6 +5,7 @@ HC-05 default setting:
 - default device: HC-05
 - default password: 1234
 - defaul baudrate: 9600  
+
 Use AT-command to change the setting of hc-05  
 https://www.instructables.com/AT-command-mode-of-HC-05-Bluetooth-module/
 
