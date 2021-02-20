@@ -1,5 +1,5 @@
 # Bluetooth
-This bluetooth module in the example is hc-05 (a yellow check on the module)
+The bluetooth module in the example is hc-05 (a yellow check on the module)
 
 ## Library or Driver
 Bluetooth uses UART to transmit data, it doesn't require additional library.
