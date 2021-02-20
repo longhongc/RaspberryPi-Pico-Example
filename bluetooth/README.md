@@ -22,5 +22,8 @@ RX(GP1)   ->    TX
 
 ## Demo
 
+Install a bluetooth receiver app on your phone.  
+I recommend this [serial bluetooth terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=zh_TW&gl=US)
+
 
 
