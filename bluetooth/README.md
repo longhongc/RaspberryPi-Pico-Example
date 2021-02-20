@@ -3,7 +3,7 @@ The bluetooth module in the example is hc-05 (a yellow check on the module)
 ![bt_demo1](https://user-images.githubusercontent.com/28807825/108593592-8acb9180-73af-11eb-9c64-db0283c14ec2.jpg)
 
 ## Library or Driver
-Bluetooth uses UART to transmit data, it doesn't require additional library.
+Bluetooth uses UART to transmit data, it doesn't require additional libraries.
 
 
 ## Wiring
