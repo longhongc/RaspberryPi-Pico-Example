@@ -8,4 +8,4 @@ This repository contains Pico example from other makers and me
 
 ## Useful Tutorial
 DroneBot Workshop - Raspberry Pi Pico - Control the (I/O) World  
-https://www.youtube.com/watch?v=Zy64kZEM_bg&t=2922s
+https://www.youtube.com/watch?v=Zy64kZEM
