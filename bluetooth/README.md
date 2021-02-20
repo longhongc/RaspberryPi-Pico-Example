@@ -24,6 +24,6 @@ RX(GP1)   ->    TX
 ## Demo
 ![bt_demo2](https://user-images.githubusercontent.com/28807825/108593687-29f08900-73b0-11eb-8a2c-730d0ccf72d2.jpg)  
 Install a bluetooth receiver app on your phone.  
-I recommend this [serial bluetooth terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=zh_TW&gl=US)
+I recommend this [serial bluetooth terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=zh_TW&gl=US)  
 ![bt_demo3](https://user-images.githubusercontent.com/28807825/108593634-cc5c3c80-73af-11eb-91bd-7aad028e660c.jpg)
 
