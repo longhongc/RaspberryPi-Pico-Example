@@ -20,3 +20,5 @@ SDA(GP20) ->    SDA
 - The XDA, XCL, ADD, INT pin is not important in this example.
 
 ## Demo
+![acc_demo1](https://user-images.githubusercontent.com/28807825/108596551-c15dd800-73c0-11eb-9df0-ee397ff55341.jpg)
+![acc_demo2](https://user-images.githubusercontent.com/28807825/108596501-6d52f380-73c0-11eb-9e95-577cb690d548.jpg)
