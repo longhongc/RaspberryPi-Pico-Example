@@ -4,8 +4,9 @@ The bluetooth module in the example is hc-05 (a yellow check on the module)
 HC-05 default setting:
 - default device: HC-05
 - default password: 1234
-- defaul baudrate: 9600
-Use AT-command to change the setting of hc-05
+- defaul baudrate: 9600  
+Use AT-command to change the setting of hc-05  
+https://www.instructables.com/AT-command-mode-of-HC-05-Bluetooth-module/
 
 ## Library or Driver
 Bluetooth uses UART to transmit data, it doesn't require additional libraries.
