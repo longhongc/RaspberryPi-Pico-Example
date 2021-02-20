@@ -18,6 +18,9 @@ SCL(GP21) ->    SCL
 SDA(GP20) ->    SDA  
 ```
 
+## Demo  
+![oled_demo2](https://user-images.githubusercontent.com/28807825/108592751-68834500-73aa-11eb-893c-d8ac761930fe.jpg)
+
 ## Error Cases
 **OSError 5**:  
 ![oserror5](https://user-images.githubusercontent.com/28807825/108591916-150ef800-73a6-11eb-9209-a6822702d663.png)  
