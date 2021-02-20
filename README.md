@@ -6,7 +6,8 @@ This repository contains Pico example from other makers and me
 ## Useful Link
 [Official Website](https://www.raspberrypi.org/documentation/pico/getting-started/)
 
-## Useful Tutorial
-- *DroneBot Workshop* - [Raspberry Pi Pico - Control the (I/O) World](https://youtu.be/Zy64kZEM_bg)
-- *Electronoobs* - Raspberry Pi PICO | Starting With MicroPython + Examples | I2C OLED, ADC, PWM  
-https://youtu.be/zlKJ5hvfs6s
+## Useful Tutorial  
+### Youtube Videos
+- *DroneBot Workshop* - [Raspberry Pi Pico - Control the (I/O) World](https://youtu.be/Zy64kZEM_bg)  
+- *Electronoobs* - [Raspberry Pi PICO | Starting With MicroPython + Examples | I2C OLED, ADC, PWM](https://youtu.be/zlKJ5hvfs6s)  
+
