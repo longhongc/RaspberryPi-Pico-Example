@@ -1,10 +1,8 @@
-from machine import Pin, UART, I2C
+from machine import Pin, UART
 import utime
-import mpu6050
-i2c = I2C(0, scl=Pin(21), sda=Pin(20))
-accelerometer = mpu6050.accel(i2c)
-uart = UART(0, 115200)                         # init with given baudrate
+
+uart = UART(0, 115200)  # init with given baudrate
 
 while True:
-    uart.write(str(accelerometer.get_values()) + "\n")   # write the 3 characters
+    uart.write("Hello" + "\n")   
     utime.sleep(1)
