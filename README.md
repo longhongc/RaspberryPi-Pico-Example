@@ -5,6 +5,7 @@ This repository contains Pico example using micropython from other makers and me
 
 ## Useful Link
 [Official Website](https://www.raspberrypi.org/documentation/pico/getting-started/)
+[Official Example](https://github.com/raspberrypi/pico-examples)
 
 ## Useful Tutorial  
 ### Youtube Videos
