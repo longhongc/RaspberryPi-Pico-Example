@@ -5,3 +5,6 @@ This repository contains Pico example from other makers and me
 
 ## Useful Link
 [Official Website](https://www.raspberrypi.org/documentation/pico/getting-started/)
+
+## Useful Tutorial
+https://www.youtube.com/watch?v=Zy64kZEM_bg&t=2922s
