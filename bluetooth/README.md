@@ -1,6 +1,6 @@
 # Bluetooth
 The bluetooth module in the example is hc-05 (a yellow check on the module)  
-![bt_demo1](https://user-images.githubusercontent.com/28807825/108593592-8acb9180-73af-11eb-9c64-db0283c14ec2.jpg) 
+![bt_demo1](https://user-images.githubusercontent.com/28807825/108593592-8acb9180-73af-11eb-9c64-db0283c14ec2.jpg)   
 HC-05 default setting:
 - default device: HC-05
 - default password: 1234
