@@ -1,7 +1,14 @@
 # JoyStick
 
 ## Wiring
-
+```
+Pico             JoyStick    
+Gnd          ->    Gnd  
+3v3          ->    VCC  
+ADC0(GP27)   ->    Y 
+ADC1(GP26)   ->    X 
+GP22         ->    B
+```
 
 ## Demo
 ![joysitck_demo1](https://user-images.githubusercontent.com/28807825/108597351-9032d700-73c3-11eb-97e8-f60ba5c632b2.png)  
