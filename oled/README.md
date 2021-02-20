@@ -8,6 +8,16 @@ the oled module in the example uses the ssd1306 controller
 4. Search for ssd1306
 5. Install micropython-ssd1306
 
+## Wiring  
+**I2C**:  
+```
+Pico           Oled    
+Gnd       ->    Gnd  
+3v3       ->    VCC  
+SCL(GP21) ->    SCL  
+SDA(GP20) ->    SDA  
+```
+
 ## Error Cases
 **OSError 5**:  
 ![oserror5](https://user-images.githubusercontent.com/28807825/108591916-150ef800-73a6-11eb-9209-a6822702d663.png)  
