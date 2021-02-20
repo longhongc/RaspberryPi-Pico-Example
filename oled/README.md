@@ -1,5 +1,5 @@
 # OLED Display
-the oled module in the example uses the ssd1306 controller
+The oled module in the example uses the ssd1306 controller
 
 ## Install ssd1306 library 
 1. Plug in pico
