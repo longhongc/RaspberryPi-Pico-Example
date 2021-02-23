@@ -26,3 +26,7 @@ SDA(GP20) ->    SDA
 ![oserror5](https://user-images.githubusercontent.com/28807825/108591916-150ef800-73a6-11eb-9209-a6822702d663.png)  
 If the ide report OSError: 5, it is highly possible that your connection with the oled device is not stable.  
 It might cause by unreliable cables or in my case bad soldering on the oled pins.   
+
+## Useful Tutorials
+### Youtube Videos
+- **Novaspirit Tech** [Raspberry Pi Pico - SSD1306 OLED Micro Python Library and Setup](https://youtu.be/YR9v04qzJ5E)
