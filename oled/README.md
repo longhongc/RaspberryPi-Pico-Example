@@ -29,4 +29,4 @@ It might cause by unreliable cables or in my case bad soldering on the oled pins
 
 ## Useful Tutorials
 ### Youtube Videos
-- **Novaspirit Tech** [Raspberry Pi Pico - SSD1306 OLED Micro Python Library and Setup](https://youtu.be/YR9v04qzJ5E)
+- **Novaspirit Tech** - [Raspberry Pi Pico - SSD1306 OLED Micro Python Library and Setup](https://youtu.be/YR9v04qzJ5E)
